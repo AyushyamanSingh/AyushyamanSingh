@@ -26,8 +26,8 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>0 contributions · 0 active days</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>4 contributions · 2 active days</p></td>
 </tr>
 </table>
 
@@ -37,9 +37,9 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
 <td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Contributions</sub></td>
 <td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
@@ -80,16 +80,11 @@
 
 <h2>Technical toolkit</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ayushyamansingh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F43914312%3Fu%3D46af4ff07133964dea1302d710b9a2c6c9e05cc5%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=ayushyamansingh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F43914312%3Fu%3D46af4ff07133964dea1302d710b9a2c6c9e05cc5%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="ayushyamansingh technology stack" />
-</picture>
-</p>
-
 <table width="100%">
 <tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+<td width="33%" valign="top"><h3>Analysis &amp; BI</h3><p>SQL · Python (pandas, NumPy) · Power BI · Tableau · SAS Visual Analytics · Excel (VBA) · Statistics</p></td>
+<td width="33%" valign="top"><h3>Product analytics</h3><p>Mixpanel · Google Analytics · Funnel &amp; cohort analysis · A/B testing · KPI dashboards · Revenue analysis</p></td>
+<td width="33%" valign="top"><h3>Data quality &amp; delivery</h3><p>ETL workflows · Data validation &amp; QC · Reporting automation · AI tools (GPT, Claude) · Jira / Agile</p></td>
 </tr>
 </table>
 
