@@ -56,16 +56,18 @@
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
+<a href="https://github.com/AyushyamanSingh/fintech-product-analytics-platform">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ayushyamansingh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F43914312%3Fu%3D46af4ff07133964dea1302d710b9a2c6c9e05cc5%26v%3D4&repos=ayushyamansingh%2FAyushyamanSingh&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=ayushyamansingh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F43914312%3Fu%3D46af4ff07133964dea1302d710b9a2c6c9e05cc5%26v%3D4&repos=ayushyamansingh%2FAyushyamanSingh&v=recruiter-projects-1&mode=dark" width="100%" alt="ayushyamansingh selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ayushyamansingh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F43914312%3Fu%3D46af4ff07133964dea1302d710b9a2c6c9e05cc5%26v%3D4&repos=ayushyamansingh%2Ffintech-product-analytics-platform&v=recruiter-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ayushyamansingh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F43914312%3Fu%3D46af4ff07133964dea1302d710b9a2c6c9e05cc5%26v%3D4&repos=ayushyamansingh%2Ffintech-product-analytics-platform&v=recruiter-projects-2&mode=dark" width="100%" alt="ayushyamansingh selected projects" />
 </picture>
+</a>
 </td>
 <td width="42%" valign="top">
-<h3><a href="https://github.com/AyushyamanSingh/AyushyamanSingh">AyushyamanSingh</a></h3>
-<p>Config files for my GitHub profile.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/AyushyamanSingh/AyushyamanSingh">Read the repository →</a></p>
+<h3><a href="https://github.com/AyushyamanSingh/fintech-product-analytics-platform">FinTech Product Analytics &amp; Decision Intelligence</a></h3>
+<p>End-to-end analytics for a fictional digital lender: data-quality gate, DuckDB warehouse with 50 SQL analyses, A/B testing, segmentation, anomaly detection, Power BI and an AI weekly summary whose every number is verified. All data synthetic.</p>
+<p><sub>Python · pandas · SQL (DuckDB) · Power BI / DAX · statistics</sub></p>
+<p><a href="https://github.com/AyushyamanSingh/fintech-product-analytics-platform">Read the repository →</a><br /><a href="https://github.com/AyushyamanSingh/fintech-product-analytics-platform/blob/main/docs/case_study.md">Read the case study →</a></p>
 </td>
 </tr>
 </table>
